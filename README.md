@@ -135,4 +135,4 @@ Once you've committed and pushed all of your changes to GitHub, go to the page f
 
 
 **Wanna Contribute?**</br>
-Feel Free To Fork The Repo And Request A P.R.
+Feel Free To Fork The Repo And Request A PR.
